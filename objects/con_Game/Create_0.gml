@@ -10,7 +10,7 @@ global.player_score = 0;
 global.win_score = 0;
 global.level = 0;
 
-score_color = c_lime;
+score_color = c_white;
 score_alpha = 1;
 
 bp_color = c_lime;

@@ -22,6 +22,7 @@ for(var i = angle_bottom_range; i < angle_top_range; i += 3){
 }
 
 dress_color = color;
+hair_color = color;
 
 //animate based on direction;
 switch direction {

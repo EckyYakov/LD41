@@ -1,9 +1,6 @@
 randomize();
-ds_list_shuffle(con_Colors.color_list);
 dress_color = c_white	
-color = con_Colors.color_list[| 0];
-ds_list_delete(con_Colors.color_list, 0);
-ds_list_add(global.game_colors, color);
+color = con_Colors.maroon;
 move_speed = 2;
 found = false;
 path = noone;
@@ -23,7 +20,7 @@ vision_range = 150;
 
 skin_color = con_Colors.skin_list[| irandom_range(0, ds_list_size(con_Colors.skin_list) - 1)];
 dress_color = color;
-hair_color = con_Colors.hair_list[| irandom_range(0, ds_list_size(con_Colors.hair_list) - 1)];
+hair_color = color;
 
 hair_sprite = spr_cm_right_hair;
 dress_sprite = spr_cm_right_dress;

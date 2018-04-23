@@ -1,5 +1,6 @@
 // Stand there for set amount of time.. then leave.
-stay_time = room_speed * 15;
+var controller = instance_find(par_level_controller, 0);
+stay_time = controller.buyer_time;
 alarm[0] = stay_time;
 
 money_sprite = spr_money;

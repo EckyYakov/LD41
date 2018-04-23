@@ -12,7 +12,7 @@ pink = make_color_rgb(255, 192, 203);
 dark_brown = make_color_rgb(58, 48, 38);
 
 skin_list = ds_list_create();
-ds_list_add(skin_list, white, pale, light_tan, mid_tan, dark_tan, brown, dark_brown);
+ds_list_add(skin_list, pale, light_tan, mid_tan, dark_tan, brown, dark_brown);
 
 //Clothes and Hair colors
 red = make_color_rgb(255, 0, 0);

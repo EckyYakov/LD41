@@ -13,9 +13,11 @@ if(growth > full_growth) warning = true;
 else warning = false;
 // Plant death conditions
 if(growth > full_growth + 1){
+	warning = false;
 	dead = true;
 }
 if(thirst > thirst_threshold){
 	dead = true;
+	warning = false;
 	needs_water = false;
 }

@@ -17,7 +17,7 @@ if(plant_id.type == "Weed"){
 		audio_play_sound(sfx_harvest_dead, 0, false);
 		return;
 	}
-	if(plant_id.growth == plant_id.full_growth){
+	if(plant_id.growth >= plant_id.full_growth){
 		global.weed_harvested++;
 		with plant_id instance_destroy();
 		plant_id = noone;
