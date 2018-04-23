@@ -1,0 +1,1 @@
+draw_sprite(spr_UI_Frame, 0, 0, 0);
