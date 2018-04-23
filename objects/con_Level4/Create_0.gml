@@ -1,6 +1,6 @@
 //Spawn community member
 initial_spawn = room_speed * 5;
-buyer_spawn = room_speed * 15;
+buyer_spawn = room_speed * 45;
 
 win_score = 70;
 //Set global win score
@@ -11,6 +11,7 @@ global.highest_level = global.level;
 alarm[0] = initial_spawn;
 alarm[1] = buyer_spawn;
 
+init_members = 3;
 members_to_spawn = 4;
 community_spawn_time = room_speed * 30;
 plants_left = 0;

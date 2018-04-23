@@ -4,4 +4,4 @@ flashes++;
 
 if(flashes > flash_number) instance_destroy();
 
-alarm[0] = 2;
+alarm[0] = 4;
