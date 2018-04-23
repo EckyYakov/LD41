@@ -1,13 +1,13 @@
 
 {
-    "name": "rm_game_over",
+    "name": "rm_game_over_lose",
     "id": "87b94c03-c385-4014-a545-08d6a3726363",
     "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "b11f087a-aa55-4fed-939f-ded0cc5da8d2"
+        "89572e12-d8ed-4467-8bc7-82ca29c572c7"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_748591AB","id": "b11f087a-aa55-4fed-939f-ded0cc5da8d2","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_748591AB","objId": "a020d312-7aef-401e-bdbc-d6b4256850e5","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 0,"y": 0}
+{"name": "inst_25EF7D26","id": "89572e12-d8ed-4467-8bc7-82ca29c572c7","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_25EF7D26","objId": "438f56fb-d57e-495f-a47e-5341543ae1bb","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 0,"y": 0}
             ],
             "layers": [
 

@@ -6,6 +6,7 @@ win_score = 40;
 //Set global win score
 global.win_score = win_score;
 global.level = 1;
+global.highest_level = global.level;
 
 alarm[0] = initial_spawn;
 alarm[1] = buyer_spawn;
