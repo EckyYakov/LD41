@@ -35,4 +35,4 @@ for(var m = 0; m < init_members; m++){
 	c_position++;
 }
 // If we still have more memeber to spawn, reset alarm
-if(members_to_spawn > 0) alarm[0] = community_spawn_time;
+if(members_to_spawn > 0) alarm[2] = community_spawn_time;

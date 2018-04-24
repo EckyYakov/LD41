@@ -1,6 +1,6 @@
 //Spawn community member
 initial_spawn = room_speed * 5;
-buyer_spawn = room_speed * 45;
+buyer_spawn = room_speed * 55;
 
 win_score = 50;
 //Set global win score

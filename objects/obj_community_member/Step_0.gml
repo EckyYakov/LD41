@@ -52,3 +52,5 @@ sub_image += animation_speed;
 if(sub_image >= sprite_get_number(hair_sprite)){
     if(recycle) sub_image = 0;
 }
+
+show_debug_message("Script ID: " + string(script_id));

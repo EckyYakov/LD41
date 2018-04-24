@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "5a880f0a-96dd-464a-a399-749f182488dd",
+            "Value": {
+                "id": "79a0db8f-7f9b-46ee-85f2-a3006cae3ca6",
+                "resourcePath": "scripts\\enemyAI\\enemyAI.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5e4b2da1-39bf-4147-8eb6-16a0e02b3973",
             "Value": {
                 "id": "b721a627-87d9-4f86-8ea4-89f1f5b5861d",
@@ -452,6 +460,14 @@
                 "id": "f0003e92-ca3b-4324-8fdd-8a84191f3c1b",
                 "resourcePath": "sprites\\bg_KnightmareGames\\bg_KnightmareGames.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "731f1093-7a95-4dc1-9066-10495855ba20",
+            "Value": {
+                "id": "8cf17284-44db-40e4-a9ad-22204a7474dc",
+                "resourcePath": "scripts\\enemyAI_2\\enemyAI_2.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1023,6 +1039,14 @@
             }
         },
         {
+            "Key": "d3d9d3f7-3b47-4101-a754-c7370f311c1f",
+            "Value": {
+                "id": "5d230f8d-1e7f-44b8-8832-d35710d4a9fb",
+                "resourcePath": "sounds\\sfx_none\\sfx_none.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "d4bd9b92-c688-4d68-b758-09774b16f981",
             "Value": {
                 "id": "12f90e7c-5121-454a-9ccf-a0fe56bf1f5f",
@@ -1181,7 +1205,9 @@
         "6148304a-939a-494a-97df-dfc8848e968e",
         "a66856fe-ea01-4eb5-9571-16428f22da32",
         "eebaa581-8773-4cca-94ae-cfd84aed8b2d",
-        "bd87016d-4b86-40a7-8758-9378e44f4c5a"
+        "bd87016d-4b86-40a7-8758-9378e44f4c5a",
+        "5a880f0a-96dd-464a-a399-749f182488dd",
+        "731f1093-7a95-4dc1-9066-10495855ba20"
     ],
     "tutorial": ""
 }
